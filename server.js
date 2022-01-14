@@ -32,6 +32,7 @@ app.post('/api/notes', (req, res) => {
 // Delete Note
 // app.delete
 
+
 // Static folder
 app.use(express.static('public'));
 
@@ -41,6 +42,3 @@ const PORT = process.env.PORT || 3001;
 app.listen(PORT, () =>
 console.log(`Listening at https://localhost:${PORT}`));
 
-
-// randome heroku check
-// second heroku test
