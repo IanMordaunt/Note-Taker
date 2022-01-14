@@ -1,5 +1,5 @@
 
-  # README Generator
+  # Note Taker
 
   ## Table of Contents
   *[Description](#description)
@@ -24,9 +24,9 @@
 
   ## Links
 
-  GitHub Repository: https://github.com/IanMordaunt/README-Generator
+  GitHub Repository: https://github.com/IanMordaunt/Note-Taker
   
-  README-Generator Demo: https://vimeo.com/manage/videos/663207350
+  Heroku Deployment: 
 
   <a name='installation'></a>
   ## Installation
@@ -50,7 +50,7 @@
 
   <a name='license'></a>
   ## Lincenses
-  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg) https://opensource.org/licenses/MPL-2.0
+  No licenses were used
 
   <a name='questions'></a>
   ## Questions
