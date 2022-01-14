@@ -1,7 +1,6 @@
-// Dependencies
 const express = require("express");
-const htmlRoutes = require("./routes/html");
 const apiRoutes = require("./routes/api");
+const htmlRoutes = require("./routes/html");
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -12,7 +11,8 @@ app.use(express.urlencoded({ extended: true }));
 
 // Static folder
 app.use(express.static("public"));
+app.use('/api', apiRoutes)
 app.use("/", htmlRoutes);
-// app.use('/api', apiRoutes)
+
 
 app.listen(PORT, () => console.log(`Listening at https://localhost:${PORT}`));
