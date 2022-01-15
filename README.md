@@ -50,7 +50,7 @@
 
   <a name='license'></a>
   ## Lincenses
-  
+
   No licenses were used
 
   <a name='questions'></a>
@@ -60,5 +60,5 @@
 
   GitHub: <a href="https://www.github.com/IanMordaunt" target="_blank">IanMordaunt</a>
   
-
+  ![alt txt] (https://github.com/IanMordaunt/Note-Taker/blob/main/Assets/sample_Note-Takerbor.png)
   
