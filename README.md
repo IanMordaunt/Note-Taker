@@ -20,23 +20,23 @@
   <a name='description'></a>
   ## Description
 
-  An application to help expedite the creation process of a ReadMe file from the cammand line
+  An application that help create a list of notes to keep track of To-Dos or storge important info.
 
   ## Links
 
   GitHub Repository: https://github.com/IanMordaunt/Note-Taker
   
-  Heroku Deployment: 
+  Heroku Deployment: https://shielded-harbor-18931.herokuapp.com/notes
 
   <a name='installation'></a>
   ## Installation
 
-  init inquirer
+  Dependencies: express, uuid
 
   <a name='usage'></a>
   ## Usage
 
-  To assist in the generation of a ReadMe file
+  To create a list for keeping track of important information or To-Do's
 
   <a name='contribute'></a>
   ## Contributers
@@ -50,6 +50,7 @@
 
   <a name='license'></a>
   ## Lincenses
+  
   No licenses were used
 
   <a name='questions'></a>
